@@ -1,0 +1,8 @@
+# Ignorar binários
+bin/
+obj/
+.vs/
+.vscode/
+*.exe
+*.pdb
+*.dll
