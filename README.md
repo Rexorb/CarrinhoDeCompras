@@ -3,6 +3,10 @@
 ![Menu Principal](./assets/carrinho-menu.jpg)  
 *Interface do menu principal em execução no terminal.*
 
+## 📦 Download
+O repositório possui a versão do executável, basta se dirigir para a seção de releases, ou clicar no link abaixo<br>
+👉 [Clique aqui para acessar a versão V1.0](https://github.com/Rexorb/CarrinhoDeCompras/releases/tag/V1.0)
+
 ## 📌 Sobre o Projeto
 
 Integrantes da equipe: Roberto Henrique dos Santos - Desenvolvedor do projeto
